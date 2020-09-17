@@ -20,13 +20,13 @@ body {
 
 /*Unvisited link & Visited link*/
 a:link, a:visited{
-    color: lightblue;
+    color: yellow;
     text-decoration: none;
     text-align: center;
 }
 
 /*Mouse over link*/
 a:hover, a:active{
-    color:lightgreen;
+    color: greenyellow;
     text-align: center;
 }
