@@ -13,6 +13,11 @@
     padding-left: 10%;
 }
 
+#TextCourses { 
+    position: absolute; visibility: visible; left: 25%; top: 37%; z-index: 200;
+    font-size: 20px; color: lime;
+}
+
 /*Unvisited link & Visited link*/
 a:link, a:visited{
     color: lightblue;
