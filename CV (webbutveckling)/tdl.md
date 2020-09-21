@@ -1,2 +1,4 @@
 #   CV
-##  länkar
+##  Bilder
+##  Länkar
+##  Text
